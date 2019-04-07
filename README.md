@@ -27,11 +27,10 @@ curl --version
 
 Step 3: Verify the docker containers are running or not.
 
-``
+```
 In Previous steps two containers are running in interactive terminal mode .Once we exit the terminal 
 containers are not longer running
 
 Start the both containers .Now we both the containers having the curl working 
-
 ```
 
